@@ -121,6 +121,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
+.idea/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -703,6 +704,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+target/
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio

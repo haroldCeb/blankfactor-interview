@@ -96,13 +96,6 @@ Open the file in a browser to view detailed test execution results.
 
 ---
 
-## 🔗 Public Repository
-
-> 📌 Replace this with your actual public repository URL once the project is uploaded:
-> [GitHub Repository](https://github.com/haroldCeb/blankfactor-interview)
-
----
-
 ## 👨‍💻 Author
 
 Harold Ceballo  
